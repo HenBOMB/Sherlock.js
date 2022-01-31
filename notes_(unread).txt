@@ -1,0 +1,27 @@
+Using 'miravespania' as target ->
+
+Incorrect:
+    - Kofi (https://ko-fi.com/art?=redirect)
+    - Carbonmade ({}.carbonmade.com not found)
+    - 3dnews (russian?)
+    - WordPressOrg ("User not found")
+    - Zhihu (Chinese text and "404")
+    - VK (russian?)
+    - ICQ ("Profile not found")
+    - PSNProfiles.com (kinda weird)
+    - HackerNews (access denied)
+    - Atom Discussions (unsafe)
+    - Clozemaster ("Oh no! Player not found")
+    - Velomania (korean?)
+    - Football (korean?)
+    - BOOTH (korean?)
+    - prog.hu (hungarian?)
+    - Packagist (searching for packages?!)
+
+EDITS:
+    - ICQ added 'profileNotFound' to error messages
+    - Clozemaster added 'Sign up or login to start saving and tracking your progress' to error messages
+    - EyeEm changed errorType to message "Whoops! We can&#x27;t find the page you&#x27;re looking for..."
+    - TikTok changed errorType to message "Couldn't find this account"
+    - Tinder added 'Looking for someone?' to errorMsg list
+    - BLIP.fm changed errorType to message "Sorry, but the page you are trying to view does not exist."
